@@ -1,4 +1,5 @@
 <h1>tiktok clone</h1>
+<p><a href="https://iamrahulkumawat.github.io/tiktok_clone/">click here</a>for demo</p>
 <hr>
 <p>Contact me at rahul.kumawat@outlook.in to about more.</p><br>
 <p>Clone of the TikTok app layout. </p><br>
